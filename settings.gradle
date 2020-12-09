@@ -1,2 +1,2 @@
-rootProject.name='nifty'
-include ':app', ':nifty'
+include ':app'
+include ':new-nifty'
